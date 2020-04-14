@@ -1,1 +1,3 @@
 # hello-world
+hola amigos!
+Soy nuevo en este sstema  y quiero aprender todo lo que pueda sobre programacion, MySQL, ciberseguridad, entre otras cosas, mi objetivo es superarme y llegar a ser un progrdor ejemplar ...
